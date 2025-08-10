@@ -1,0 +1,3 @@
+ul li:nth-child(2n) {color: green;}
+ul li:first-child {font-weight: bold;}
+ul li:last-child {color: red;}
